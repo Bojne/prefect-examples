@@ -1,2 +1,1 @@
-# prefect-examples
-Collection of Prefect example 
+- [Prefect-github-example](https://github.com/jcrist/prefect-github-example)
